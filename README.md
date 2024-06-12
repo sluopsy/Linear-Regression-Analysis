@@ -3,4 +3,4 @@ A linear regression analysis performed to examine the effects of two psychologic
 
 See full analysis here: https://sluopsy.github.io/Linear-Regression-Analysis/
 
-![](https://github.com/sluopsy/images/blob/main/linear-regression-ss.png?raw=true)
+[![linear-regression](https://github.com/sluopsy/images/blob/main/linear-regression-ss.png?raw=true)](https://sluopsy.github.io/Linear-Regression-Analysis/)
